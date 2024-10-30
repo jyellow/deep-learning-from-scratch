@@ -6,3 +6,4 @@ img = imread('../dataset/lena.png') # 画像の読み込み
 plt.imshow(img)
 
 plt.show()
+#%%
